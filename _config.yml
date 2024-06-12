@@ -1,0 +1,11 @@
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+- jekyll-remote-theme
+# Configuration variables
+title: [The title of your site]
+slug: [The preferred URL slug to use for an article]
+tags: [The related tags for an article]
+# To use images in posts on hashnode, you will have to first upload them using Hashnode uploader
+# You can then copy the URL in the cover section and use it in your article
+cover: [The URL to the cover image]
+domain: [Your domain name]
